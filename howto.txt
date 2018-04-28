@@ -1,9 +1,8 @@
 How to use
 
 Hardware
-1. Connect buzzer/speaker to PWM port 11. Use a proper resister.
+1. Connect buzzer/speaker to PWM port PB0. Use a proper resister.
 2. A variable-resistance resister is recommended to adjust the volume.
-3. (Optional) Connect LEDs to port 2-7.
 4. Ground everything.
 
 Software

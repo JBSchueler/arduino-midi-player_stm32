@@ -6,14 +6,14 @@
  *  2016 by ilufang
  *  2018 by jbschueler
  *       optimized
- *       atmega2560 support (pwm pin 10)
+ *       STM32 support (pwm pin PB0)
  */
 
 /*
  * Part of this file contains code modified/referenced from
  * http://interface.khm.de/index.php/lab/interfaces-advanced/arduino-dds-sinewave-generator/
  *
- * DDS Sine Generator mit ATMEGS 168
+ * DDS Sine Generator mit ATMEGA 168
  * Timer2 generates the  31250 KHz Clock Interrupt
  *
  * KHM 2009 /  Martin Nawrath
