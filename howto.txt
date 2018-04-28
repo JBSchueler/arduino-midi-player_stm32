@@ -1,0 +1,16 @@
+How to use
+
+Hardware
+1. Connect buzzer/speaker to PWM port 11. Use a proper resister.
+2. A variable-resistance resister is recommended to adjust the volume.
+3. (Optional) Connect LEDs to port 2-7.
+4. Ground everything.
+
+Software
+1. Place your .mid file under the main directory
+2. Run node smf2seq.js <your_midi_song.mid> to generate sequence.h (You will need to install node.js if you don't have one)
+3. Open arduino-midi-player.ino in Arduino IDE
+4. Compile & Upload
+
+
+https://github.com/ilufang/arduino-midi-player
