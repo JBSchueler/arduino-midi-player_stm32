@@ -1,7 +1,7 @@
 # arduino-midi-player_stm32
 Play multiple tones on Arduino (STM32) from MIDI files
 
-Original version designed by Fang Lu
+Original version designed by [Fang Lu](https://github.com/ilufang)<br>
 https://github.com/ilufang/arduino-midi-player
 
 Code has been modified to run on an STM32F103C8T6
